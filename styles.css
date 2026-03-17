@@ -1,0 +1,11 @@
+body{
+    scroll-behavior: smooth;
+}
+
+section{
+    padding-top:60px;
+}
+
+#inicio{
+    padding:100px 0;
+}
