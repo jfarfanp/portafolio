@@ -1,5 +1,5 @@
 (function(){
-emailjs.init("TU_PUBLIC_KEY");
+emailjs.init("P3abcd1234");
 })();
 
 document.getElementById("formulario").addEventListener("submit", function(e){
